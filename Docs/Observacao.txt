@@ -1,0 +1,4 @@
+documentação completa do signal r
+
+
+https://docs.microsoft.com/pt-br/aspnet/signalr/
